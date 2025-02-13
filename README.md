@@ -5,10 +5,10 @@
 
 
 ## Group Members
-1. Kim Charles Emping (Leader) - 59828996
-2. James Harold Roble - 59829532
-3. Urien Adriane Suico - 59829534
-4. Emman Gumia - 
+1. Kim Charles Emping (Leader)
+2. James Harold Roble 
+3. Urien Adriane Suico 
+4. Emman Gumia 
 
 
 
